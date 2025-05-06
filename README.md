@@ -1,6 +1,5 @@
-<p align="center">
-  # Hi, I'm Sabhavath Yashwanth 👋
-</p>
+<h1 align="center">Hi 👋, I'm Sabhavath Yashwanth</h1>
+<h3 align="center">A passionate Data Science and Machine Learning enthusiast from India 🇮🇳</h3>
 
 Welcome to my GitHub profile! I’m a Data Enthusiast, passionate about **Machine Learning**, **Data Science**, and **AI**. I am currently pursuing an **Integrated Bachelor's and Master's in Information Technology** from **IIIT Gwalior** (Graduating in 2026). I love solving real-world problems using data-driven approaches, and I enjoy working on cutting-edge technologies to innovate and create impactful solutions.
 
@@ -44,7 +43,7 @@ A web application that fetches, analyzes, and provides sentiment analysis and to
 - Continuously improve my knowledge in data science and stay updated on the latest developments in **AI** and **ML**.
 
 ## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yashwanth-nayak){:target="_blank"}
-- [Email](mailto:yashwanthsabhavath98.8@gmail.com){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/yashwanth-nayak)
+- [Email](mailto:yashwanthsabhavath98.8@gmail.com)
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects and reach out if you want to collaborate or discuss anything related to **Data Science**, **Machine Learning**, or **NLP**.
