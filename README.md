@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabhavath Yashwanth</h1>
-<h3 align="center">A passionate Data Science and Machine Learning enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Data Science and Machine Learning enthusiast from India </h3>
 
 Welcome to my GitHub profile! I’m a Data Enthusiast, passionate about **Machine Learning**, **Data Science**, and **AI**. I am currently pursuing an **Integrated Bachelor's and Master's in Information Technology** from **IIIT Gwalior** (Graduating in 2026). I love solving real-world problems using data-driven approaches, and I enjoy working on cutting-edge technologies to innovate and create impactful solutions.
 
