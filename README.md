@@ -90,7 +90,7 @@ A web application that fetches, analyzes, and provides sentiment analysis and to
 </p>
 
 <p align="center">
-  <i>⚠️ Top languages only reflect public repositories and don't indicate skill level.</i>
+  ⚠️ Top languages only reflect public repositories and don't indicate skill level.
 </p>
 
 
