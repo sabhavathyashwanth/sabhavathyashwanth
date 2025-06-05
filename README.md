@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabhavath Yashwanth</h1>
-<h3 align="center">A passionate Data Scientist & ML Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Data Scientist & ML Enthusiast from India</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 🎓 I'm currently pursuing an **Integrated Bachelor's and Master's in Information Technology** from **IIIT Gwalior** (Graduating in 2026).
 
-💡 I’m deeply passionate about **Machine Learning**, **AI**, and solving real-world problems using **data-driven solutions**.
+💡 I’m deeply passionate about **Machine Learning**, **Web Development**, and solving real-world problems using **data-driven and scalable solutions**.
 
 🚀 I love exploring new technologies and applying them to create impactful solutions.
 
@@ -61,18 +61,18 @@
 - Data Science & Machine Learning
 - Deep Learning (CNNs, RNNs, Transformers)
 - Natural Language Processing
-- AI-powered Web Applications
-- Model Deployment & MLOps
+- Web Development
+- Data Analyst (Power BI)
 
 ---
 
 ## 💼 Projects
 
 ### 🔹 [Driver Drowsiness Detection System](https://github.com/sabhavathyashwanth/Driver-Drowsiness-Detection)
-> Real-time system using **InceptionV3** and a custom CNN to detect drowsiness from webcam video feed.
+AlertDrive is a real-time driver drowsiness detection system that uses deep learning and computer vision to monitor fatigue. Built with TensorFlow and OpenCV, it enhances road safety by analyzing facial cues like eye closure. It features an interactive Streamlit interface and achieves 94.9% accuracy, making it a reliable solution for preventing fatigue-related accidents.
 
 ### 🔹 [Financial News Analyzer](https://github.com/sabhavathyashwanth/News-Summarization-and-Text-to-Speech-Application)
-> NLP-based app for sentiment analysis & summarization of financial news. Integrated **text-to-speech** in Hindi. Built with Flask + Streamlit.
+A web application that fetches, analyzes, and provides sentiment analysis and topic extraction on financial news. It also includes a text-to-speech feature that provides Hindi summaries in audio form. Built using **Flask** and **Streamlit**, deployed on **Hugging Face Spaces**.
 
 ---
 
@@ -104,21 +104,9 @@
 
 ## 🌟 Goals
 
-- ✅ Build scalable **AI/ML applications**
-- 🔍 Explore more in **Generative AI & Diffusion Models**
+- ✅ Build scalable **AI/ML and Web applications**
+- 🔍 Explore more in **Generative AI & LLMs**
 - 🤝 Collaborate with open-source and research communities
 - 📚 Keep learning and improving daily
 
 ---
-
-## 📎 Optional (Add if available)
-
-- **📃 Certifications** (Coursera, Udemy, Google, etc.)
-- **📝 Blog Posts** (on Medium, Dev.to, or personal blog)
-- **📂 Resume** link
-- **📽️ Demos/YouTube** videos of your projects
-- **📦 Packages** (PyPI, NPM) if you’ve published any
-
----
-
-Let me know if you'd like this as a `.md` file download or want help embedding badges for certifications or blogs.
