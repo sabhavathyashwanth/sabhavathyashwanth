@@ -96,11 +96,11 @@
 
 ## 💼 Projects
 
-### 🔹 [Driver Drowsiness Detection System](https://github.com/sabhavathyashwanth/Driver-Drowsiness-Detection)
-**AlertDrive** is a real-time driver drowsiness detection system using deep learning and computer vision. Built with **TensorFlow** and **OpenCV**, it analyzes facial cues like eye closure and achieves **94.9% accuracy**. The interactive **Streamlit** interface makes it user-friendly and effective for road safety.
+### 🔹 [AlertDrive: Real-Time Driver Alertness Monitoring](https://github.com/sabhavathyashwanth/Driver-Drowsiness-Detection)
+**AlertDrive** is an AI-powered real-time driver drowsiness detection system designed to enhance road safety by monitoring driver alertness. Leveraging deep learning with **TensorFlow** and **computer vision** via **OpenCV**, it analyzes facial cues to detect signs of fatigue with 97.9% accuracy. The system features an optimized snapshot-based detection logic and a user-friendly **Streamlit** interface for seamless interaction.
 
 ### 🔹 [Financial News Analyzer](https://github.com/sabhavathyashwanth/News-Summarization-and-Text-to-Speech-Application)
-A web app that fetches, summarizes, and analyzes financial news. Features **sentiment analysis**, **topic extraction**, and **text-to-speech in Hindi**. Built with **Flask** and **Streamlit**, and deployed on **Hugging Face Spaces**.
+**Financial News Analyzer** is a web application that fetches, summarizes, and analyzes real-time financial news articles. It leverages transformer-based models for abstractive **summarization** and **sentiment analysis**, providing users with concise insights and emotional tone of market events. The app performs topic extraction using NLP techniques to highlight key themes in news content. To improve accessibility, it features a text-to-speech module that converts summaries into Hindi audio using **gTTS**. Built using Flask and Streamlit, and deployed on *Hugging Face Spaces*, this tool offers an interactive and multilingual experience tailored for analysts, researchers, and finance enthusiasts.
 
 ---
 
@@ -127,7 +127,7 @@ A web app that fetches, summarizes, and analyzes financial news. Features **sent
 
 <p align="center">
   <a href="mailto:yashwanthsabhavath98.8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/sabhavathyashwanth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/yashwanth-nayak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
