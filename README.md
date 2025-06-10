@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated banner" width="60%" />
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&multiline=true&height=50&lines=Hi+👋,+I'm+Sabhavath+Yashwanth" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A Passionate AI Developer | Data Scientist | Full-Stack Web Developer</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated banner" width="50%" />
+</p>
 
 ---
 
