@@ -1,19 +1,8 @@
-
 <h1 align="center">
-  <span style="display: inline-block; animation: wave 1.5s infinite ease-in-out;">👋</span>
-  Hi, I'm Sabhavath Yashwanth
+  Hi <img src="https://user-images.githubusercontent.com/74038190/265369805-65a5a2c0-49b7-4e9e-bbb7-60e02b8e5f89.gif" width="28px" style="display:inline-block;">, I'm Sabhavath Yashwanth
 </h1>
 
-<style>
-  @keyframes wave {
-    0%   { transform: translateX(0); }
-    50%  { transform: translateX(8px); }
-    100% { transform: translateX(0); }
-  }
-</style>
-
-
-<h3 align="center">A Passionate AI Developer | Data Scientist | Full-Stack Web Developer</h3>
+<h3 align="center">🚀 A Passionate AI Developer | Data Scientist | Full-Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated banner" width="50%" />
