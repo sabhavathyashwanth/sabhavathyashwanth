@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://user-images.githubusercontent.com/74038190/265369805-65a5a2c0-49b7-4e9e-bbb7-60e02b8e5f89.gif" width="28px" style="display:inline-block;">, I'm Sabhavath Yashwanth
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="28px" style="display:inline-block;">, I'm Sabhavath Yashwanth
 </h1>
 
 <h3 align="center">🚀 A Passionate AI Developer | Data Scientist | Full-Stack Web Developer</h3>
