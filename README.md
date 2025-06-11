@@ -111,6 +111,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabhavathyashwanth&theme=github-dark&hide_border=true" height="170px"/>
 </p>
 
+<!--
 ## 🧠 Top Languages
 
 <p align="center">
@@ -120,7 +121,7 @@
 <p align="center">
   ⚠️ *Top languages only reflect public repositories and don't indicate skill level.*
 </p>
-
+-->
 ---
 
 ## 🌟 Goals
