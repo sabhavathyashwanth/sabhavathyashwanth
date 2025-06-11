@@ -114,7 +114,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhavathyashwanth&layout=compact&theme=github_dark&hide_border=true&exclude_repo=repo1,repo2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhavathyashwanth&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
